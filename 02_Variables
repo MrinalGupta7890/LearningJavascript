@@ -1,1 +1,17 @@
 
+console.log("This repl contains code for the Ultimate Javascript course video no 2")
+let a = 27
+console.log(a)
+
+a = "Mrinal"
+console.log(a)
+
+// let 8harry = 77  // Not allowed, this will throw an error
+
+// let var = 7
+
+// for (let i = 1; i <= 5; i++) {
+//   setTimeout(() => {
+//     console.log(i);
+//   }, i * 1000);
+// }
